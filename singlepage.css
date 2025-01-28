@@ -1,0 +1,370 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+.logo{
+    width: 100px;
+   
+}
+.marginright{
+    margin-right: 100px;
+}
+.fontstyle{
+ 
+
+
+  font-family: "Outfit", serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+
+}
+.bgimage{
+    background-image: url(./images/bannerimage.jpg);
+    width: 100%;
+    height: 600px;
+    background-size: cover;
+    margin-bottom: 50px;
+  
+}
+.bannercontent h1{
+    color: white;
+}
+.bannercontent{
+    padding-top: 300px;
+    padding-left: 45px;
+}
+.tittle{
+    font-size: 40px;
+}
+.right{
+    margin-left: 60px;
+}
+.container{
+    width: 100%;
+    margin: auto;
+}
+.aboutimg{
+    width: 90%;
+    height: 600px;
+    object-fit: cover;
+    margin-left: 0px;
+}
+.aboutfont{
+    font-size: 40px;
+    margin-bottom: 25px;
+}
+.mainflex{
+    display: flex;
+    margin-bottom: 50px;
+}
+.subtwo{
+    width: 50%;
+    padding-right: 0px;
+}
+.subone{
+    width: 50%;
+}
+.aboutpara{
+    font-size: 14px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-bottom: 25px;
+}
+.heatheading{
+    font-size: 40px;
+    text-align: center;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.mainsection{
+    display: flex;
+    margin-bottom: 25px;
+}
+.divone{
+    width: 50%;
+}
+.divtwo{
+    width: 50%;
+}
+.paratwo{
+    font-size: 14px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+
+}
+.paraone{
+    font-size: 14px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal; 
+}
+.mainsectiontwo{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
+.annealingimg{
+    width: 90%;
+    height: 200px;
+    object-fit: cover;
+    margin-bottom: 25px;
+}
+.partone{
+    width: 33.3%;
+}
+.parttwo{
+    width: 33.3%;
+}
+.partthree{
+    width: 33.3%;
+}
+.container{
+    width: 100%;
+    margin: auto;
+}
+/* .ourworks{
+    font-size: 20px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal; 
+    text-align: center;
+} */
+ .annealingheading{
+    font-size: 20px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    margin-bottom: 25px;
+ }
+ .annealingpara{
+    font-size: 13px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    width: 90.3%;
+ }
+ .footerbgcolor{
+    background-color: black;
+ }
+ .footerlogo{
+    width: 80px;
+    margin-bottom: 25px;
+ }
+ .footerparaone{
+    color: white;
+    font-size: 14px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+ }
+ .mainfooter{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    padding-bottom: 25px;
+ }
+ .footerabout{
+    font-size: 20px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    margin-bottom: 25px;
+    color: white;
+   padding-left: 32px;
+ }
+ .footeraboutinsta{
+    font-size: 20px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    margin-bottom: 35px;
+    color: white;
+   padding-left: 0px;
+ }
+ .footerul li{
+   list-style-type: none;
+   color: white;
+ 
+   font-size: 14px;
+   font-family: "Outfit", serif;
+   font-optical-sizing: auto;
+   font-weight: weight;
+   font-style: normal;
+   margin-bottom: 25px;
+
+ 
+ }
+ .footersubone{
+    width: 20%;
+ }
+ .footersubtwo{
+    width: 20%;
+ }
+ .footersubthree{
+    width: 20%;
+ }
+ .footersubfour{
+    width: 20%;
+ }
+ .footersubfive{
+    width: 20%;
+ }
+ .instaalign{
+    width: 70px;
+    height: auto;
+    object-fit: cover;
+ }
+ .maininsta{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+ }
+ .qualityheading{
+    font-size: 40px;
+    text-align: center;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+ }
+ .qualitypara{
+    font-size: 14px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    margin-bottom: 25px;
+ }
+ .qualityimg{
+    width: 90%;
+    height: auto;
+    object-fit: cover;
+    margin-bottom: 20px;
+ }
+ .mainqualitycontrol{
+    display: flex;
+    justify-content: space-between;
+ }
+ .qualityone{
+    width: 50%;
+ }
+ .qualitytwo{
+    width: 50%;
+ }
+ .industryheading{
+    font-size: 30px;
+   
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+ }
+ .industrypara{
+    font-size: 14px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    margin-bottom: 25px;
+ }
+ .mainsubonecontact{
+    display: flex;
+    justify-content: space-between;
+ }
+ .inputone{
+    padding: 10px;
+    padding-left: 20px;
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 20px;
+    width: 100%;
+    
+}
+.inputtwo{
+    padding: 10px;
+    padding-left: 20px;
+    border: none;
+    background-color: black;
+    border-radius: 10px;
+    color: white;
+    margin-bottom: 20px;
+    width: 100%;
+    margin-left: 50px;
+}
+.subitnow{
+    border: none;
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    font-size: 16px;
+    border-radius: 10px;
+    margin-left: 50px;
+}
+.message{
+    font-size: 40px;
+   
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.paramessage{
+    font-size: 14px;
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+   
+    margin-bottom: 25px;
+}
+
+
+.divcontactone{
+    width: 50%;
+}
+.divcontacttwo{
+    width: 50%;
+}
+ .subonecontact{
+    width: 50%;
+ }
+ .subtwocontact{
+    width: 50%;
+    padding-left: 100px;
+    padding-top: 100px;
+ }
+ .maincontact{
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: space-between;
+ }
+ .mailid{
+    font-size: 30px;
+   
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+ }
+ .numbers{
+    font-size: 30px;
+   
+    font-family: "Outfit", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+ }
